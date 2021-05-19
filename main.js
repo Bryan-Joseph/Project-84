@@ -45,36 +45,36 @@ window.addEventListener("keydown" , function(e){
 
     if (keypress == 38) {
         console.log("Up arrow key");
-        car1_up();
+        //car1_up();
     }
     if (keypress == 40) {
         console.log("Down arrow key");
-        car1_down();
+        //car1_down();
     }
     if (keypress == 39) {
         console.log("Right arrow key");
-        car1_right();
+        //car1_right();
     }
     if (keypress == 37){
         console.log("Left arrow key");
-        car1_left();
+        //car1_left();
     }
 
     if (keypress == 87) {
         console.log("W key");
-        car2_up();
+        //car2_up();
     }
     if (keypress == 83) {
         console.log("S key");
-        car2_down();
+        //car2_down();
     }
     if (keypress == 68) {
         console.log("D key");
-        car2_right();
+        //car2_right();
     }
     if (keypress == 65){
         console.log("A key");
-        car2_left();
+        //car2_left();
     }
 
 });
